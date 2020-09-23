@@ -1,5 +1,5 @@
 import rclpy
-from rxros2_pytest1 import rxros2
+import rxros2
 from rclpy.time import Time
 from rclpy.clock import Clock
 from ros2_msg.msg import Test
